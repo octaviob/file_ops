@@ -1,12 +1,19 @@
 /**
  * This is a comment
+ * This is another comment
  * 
  * @author 671114
- *
+ * 
+ * 
  */
 public class Test {
 	private String subject;
 
+	/**
+	 * provides the subject
+	 * 
+	 * @return the subject
+	 */
 	public String getSubject() {
 		return subject;
 	}
