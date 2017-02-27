@@ -11,6 +11,10 @@ public class Test {
 		return subject;
 	}
 
+	/**
+	 * Sets the subject
+	 * @param subject
+	 */
 	public void setSubject(String subject) {
 		this.subject = subject;
 	}
